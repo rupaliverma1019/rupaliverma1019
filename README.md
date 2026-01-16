@@ -1,4 +1,8 @@
-## Hi there 👋
+🧑‍💻 Hi, I’m Rupali Verma — MERN Stack Developer  
+🌱 Building scalable web apps with React, Node.js, Express, MongoDB  
+📫 Connect on LinkedIn — https://www.linkedin.com/in/rupaliverma/ 
+
+
 
 <!--
 **rupaliverma1019/rupaliverma1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
